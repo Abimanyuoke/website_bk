@@ -23,7 +23,7 @@ export default function Main() {
                     className="hidden lg:block object-cover" />
                 <div className="absolute bg-gradient-to-t from-black to-transparent inset-0 hidden lg:block"></div>
             </div>
-            <div className="py-16 px-6 md:px-16 lg:px-6 font-roboto absolute top-24 lg:top-32">
+            <div className="py-16 px-6 md:px-16 lg:px-32 font-roboto absolute top-24 lg:top-32">
                 <div className="text-black lg:text-white space-y-5  md:text-center lg:text-left md:w-[670px] lg:w-[700px]">
                     <h1 className="text-2xl font-bold lg:text-4xl">Reclaim Your Happiness and Balance: “BK-Moco.com” 's Online Counseling for
                         Positive Learning</h1>
