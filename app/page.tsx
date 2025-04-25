@@ -1,4 +1,4 @@
-
+console.log('Rendering ComplaintPage component');
 
 import React from "react";
 import Main from "./components/landingpage/main";
